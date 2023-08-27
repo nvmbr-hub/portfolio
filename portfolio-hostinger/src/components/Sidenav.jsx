@@ -58,7 +58,7 @@ const Sidenav = () => {
                     <a href="#work" className='rounded-full shadow-ls bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duraton-300'>
                         <GrProjects size={20} />
                     </a>
-                    <a href="#projects" className='rounded-full shadow-ls bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duraton-300'>
+                    <a href="#project" className='rounded-full shadow-ls bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duraton-300'>
                         <AiOutlineProject size={20} />
                     </a>
                     <a href="#main" className='rounded-full shadow-ls bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duraton-300'>
@@ -74,4 +74,4 @@ const Sidenav = () => {
     )
 }
 
-export default Sidenav
+export default Sidenav;
